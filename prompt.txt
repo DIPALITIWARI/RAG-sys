@@ -1,0 +1,14 @@
+
+I am teaching web development concepts in a series of videos. Here are video chunks that are most relevant chunks containing 
+video title, start and end timestamps in seconds, and the text content of the chunk.
+{"text":{"736":" I will teach CSS","2208":" in this course we will learn HTML, CSS, JavaScript","2019":" CSS is used to style.","2158":" learn 100% HTML, learn 100% CSS","778":" where is your CSS file."},"chunk_id":{"736":736,"2208":2208,"2019":2019,"2158":2158,"778":778},"title":{"736":"Your First HTML Website","2208":"Installing VS Code & How Websites Work","2019":"Installing VS Code & How Websites Work","2158":"Installing VS Code & How Websites Work","778":"Your First HTML Website"},"start":{"736":850.76,"2208":1510.7,"2019":1121.1,"2158":1410.7,"778":898.76},"end":{"736":851.76,"2208":1512.7,"2019":1123.1,"2158":1412.7,"778":899.76}}
+--------
+
+"where is css taught"
+User asked this question related to video chunks.
+Return:
+
+Video Title
+Timestamp in MM:SS
+A very short instruction telling the user where to go.
+If user asks unrelated question then you need to tell the user that you are not able to find any relevant information related to the question. You need to answer in a very concise manner.

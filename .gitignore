@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Large audio/video files
+audios/
+audios2/
+
+# Dataset
+dataset/
+
+# Whisper/model files
+whisper/
+
+# Generated JSON files
+output.json
+output1.json
+merged_jsons/
+
+# Embeddings / ML artifacts
+*.joblib
+*.pkl
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
